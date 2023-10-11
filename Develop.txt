@@ -1,3 +1,1 @@
-This is develope file for develop branch
-adding second line.
-edit 3rd line in develop.txt file.
+This is develope file for develop branch.
